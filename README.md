@@ -2,18 +2,18 @@
 
 ### 🧬 Microbiology | Bioinformatics | Cancer Genomics | Computational Biology
 
-I have a background in **Microbiology** with academic training from
-**Jahangirnagar University** and professional experience in
-**pharmaceutical microbiology**.
+I am a microbiologist with academic training in **Microbiology** from
+**Jahangirnagar University** and professional experience in the
+**pharmaceutical industry**.
 
-I am currently expanding my expertise into **bioinformatics and
-computational biology**, with an interest in applying computational
-approaches to understand molecular mechanisms of disease.
+My current focus is on developing skills in **bioinformatics and
+computational biology**, particularly in the analysis of high-throughput
+sequencing data and its application to disease research.
 
 ## 🎓 Education
 
-- **BSc in Microbiology** — Jahangirnagar University
 - **MSc in Microbiology** — Jahangirnagar University
+- **BSc in Microbiology** — Jahangirnagar University
 
 ## 💼 Professional Experience
 
@@ -25,19 +25,16 @@ approaches to understand molecular mechanisms of disease.
 **Vaccine Division — Microbiology Department**  
 *07 January 2025 – 01 June 2025*
 
-My professional experience in pharmaceutical microbiology has given me
-practical experience in microbiological research and quality-focused
-laboratory environments. I am now expanding my expertise into
-bioinformatics and computational biology, with an interest in applying
-these approaches to disease biology, cancer genomics, and molecular
-research.
+My experience in pharmaceutical microbiology has provided me with practical
+laboratory experience in vaccine and ophthalmic pharmaceutical settings.
+I am now expanding my background into computational approaches for
+biological and biomedical research.
 
 ## 🔬 Research Interests
 
 - Cancer genomics and transcriptomics
-- Single-cell RNA-seq
-- Bulk RNA-seq
-- Gene expression analysis
+- Single-cell and bulk RNA-seq
+- Gene expression and pathway analysis
 - Tumor–immune interactions
 - Therapeutic response
 - Molecular microbiology
@@ -61,26 +58,26 @@ research.
 
 ### [PROJECT_3_IFN_I](https://github.com/MdOsmanGaniBhuiyan/PROJECT_3_IFN_I)
 
-Single-cell RNA-seq analysis of Type I interferon response in
-anti-PD-1 immunotherapy.
+Single-cell RNA-seq analysis investigating **Type I interferon response**
+in the context of **anti-PD-1 immunotherapy**.
 
 ### [bulk_rnaseq_meta_analysis](https://github.com/MdOsmanGaniBhuiyan/bulk_rnaseq_meta_analysis)
 
 Bulk RNA-seq meta-analysis for investigating gene-expression patterns
-across datasets.
+across multiple datasets.
 
 ## 🎯 Research Goal
 
-To integrate microbiology and computational biology to investigate
-molecular mechanisms underlying disease, with a growing focus on
-cancer genomics, transcriptomics, tumor–immune interactions, and
-therapeutic responses.
+To integrate my background in **microbiology** with **bioinformatics and
+computational biology** to investigate molecular mechanisms of disease,
+with a growing interest in **cancer genomics, transcriptomics,
+tumor–immune interactions, and therapeutic response**.
 
 ## 📚 Currently Learning
 
-- Single-cell RNA-seq analysis
+- Single-cell RNA-seq
 - Transcriptomics
 - Cancer genomics
 - Computational biology
 - Statistical analysis of biological data
-- Reproducible research workflows
+- Reproducible research
