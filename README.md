@@ -25,10 +25,12 @@ approaches to understand molecular mechanisms of disease.
 **Vaccine Division — Microbiology Department**  
 *07 January 2025 – 01 June 2025*
 
-My professional experience has provided me with practical exposure to
-microbiology within the pharmaceutical industry, while my current
-bioinformatics work is helping me develop computational approaches to
-biological research.
+My professional experience in pharmaceutical microbiology has given me
+practical experience in microbiological research and quality-focused
+laboratory environments. I am now expanding my expertise into
+bioinformatics and computational biology, with an interest in applying
+these approaches to disease biology, cancer genomics, and molecular
+research.
 
 ## 🔬 Research Interests
 
